@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>NIP-05 Next.js Vercel Example</title>
+        <title>Notoshi</title>
         <meta
           name="description"
-          content="Example Next.js app that is a NIP-05 server."
+          content="Next.js app that is a NIP-05 server."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/notoshi.png" />
       </Head>
       <main>
         <ol>
